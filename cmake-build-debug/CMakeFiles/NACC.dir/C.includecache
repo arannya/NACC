@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arannyamonzur/CLionProjects/NACC/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+unistd.h
+-
+

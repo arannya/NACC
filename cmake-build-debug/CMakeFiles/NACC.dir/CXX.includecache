@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arannyamonzur/CLionProjects/NACC/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+unistd.h
+-
+pthread.h
+-
+
